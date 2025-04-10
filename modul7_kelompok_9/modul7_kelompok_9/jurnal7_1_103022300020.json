@@ -1,0 +1,38 @@
+{
+    "firstName": "NadyaSekar",
+    "lastName": "Rahmawati",
+    "gender": "female",
+    "age": 20,
+    "address": {
+        "streetAddress": "Lengkong",
+        "city": "Bandung",
+        "state": "West Java"
+    },
+    "courses": [
+        {
+            "code": "CCK2KAB4",
+            "name": "Konstruksi Perangkat Lunak"
+        },
+        {
+            "code": "CCCK3JAB2",
+            "name": "Bahasa Inggris "
+        },
+        {
+            "code": "CCK2IAB3",
+            "name": "DASAR JARINGAN KOMPUTER"
+        },
+        {
+            "code": "CCK2JAC2",
+            "name": "PROYEK TINGKAT II"
+        },
+        {
+            "code": "CCK2AAB4",
+            "name": "STRUKTUR DATA"
+        },
+        {
+            "code": "CCK2FAB4",
+            "name": "ARSITEKTUR DAN DESIGN PERANGKAT LUNAK"
+        }
+
+    ]
+}
